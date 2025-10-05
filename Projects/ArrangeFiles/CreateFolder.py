@@ -11,5 +11,3 @@ def create_folder(folder_name):
         print(f"Error creating folder '{folder_name}': {e}")
 
 # Example usage:
-new_folder = "C:\\Bhushan\\Personal"
-create_folder(new_folder)
